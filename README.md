@@ -1,4 +1,4 @@
 # nakhon-sri-thammarat
 First repository
 
-create by Gomosz Azynxtw abn Jannarong
+create by Gomosz Azynxtw and Jannarong
